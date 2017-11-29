@@ -1,0 +1,13 @@
+This is a Recommender system based on Image Substitute and Style.
+
+********************************************************************
+Dependencies
+python 3.x
+flask 0.12.x
+scikit Machine learning library.
+opencv
+
+*********************************************************************
+
+To Run the Project Run model.py
+python  model.py
